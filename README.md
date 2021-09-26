@@ -14,6 +14,8 @@ Datos registrados:
 - Distancia del paso mínimo (cm)
 - Distancia del paso máximo(cm)
 - Distancia del paso promedio(cm)
+
+
 Excel con datos limpios https://docs.google.com/spreadsheets/d/1d0qt5mVmrEKaKy57Q8tpKiU214fjA1VlzRrMaQxsJn4/edit?usp=sharing
 
 Excel con datos crudos de cantidad de pasos https://docs.google.com/spreadsheets/d/14S-EICvJM1t-1_OWciRAjA9RwVvXz4FOhLkROQY0E8U/edit?usp=sharing
