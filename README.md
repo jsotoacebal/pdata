@@ -36,4 +36,6 @@ Comparación cantidad de pasos y distancia recorrida(km)
 
 Promedio de velocidad:
 
+![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/promedio%20velocidad.png)
+
 
