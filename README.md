@@ -24,8 +24,7 @@ Excel con datos crudos de cantidad de pasos https://docs.google.com/spreadsheets
 
 
 
-**Gráficos:
-**
+Gráficos:
 
 Cantidad de pasos
 
