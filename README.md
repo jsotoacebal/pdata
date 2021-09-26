@@ -16,11 +16,10 @@ Datos registrados:
 - Distancia del paso promedio(cm)
 
 
-Excel con datos limpios https://docs.google.com/spreadsheets/d/1d0qt5mVmrEKaKy57Q8tpKiU214fjA1VlzRrMaQxsJn4/edit?usp=sharing
+Datos crudos de cantidad de pasos https://github.com/jsotoacebal/pdata/blob/main/Datos%20crudos%20pasos%20-%20Hoja%201.csv
 
-Excel con datos crudos de cantidad de pasos https://docs.google.com/spreadsheets/d/14S-EICvJM1t-1_OWciRAjA9RwVvXz4FOhLkROQY0E8U/edit?usp=sharing
 
-https://github.com/jsotoacebal/pdata/blob/main/Datos%20crudos%20pasos%20-%20Hoja%201.csv
+Datos limpios https://github.com/jsotoacebal/pdata/blob/main/Proyecto%20visualizaci%C3%B3n%20de%20la%20informaci%C3%B3n%20-%20Hoja%201.csv
 
 
 
