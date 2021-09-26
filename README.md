@@ -22,7 +22,7 @@ Datos crudos de cantidad de pasos https://github.com/jsotoacebal/pdata/blob/main
 Datos limpios https://github.com/jsotoacebal/pdata/blob/main/Proyecto%20visualizaci%C3%B3n%20de%20la%20informaci%C3%B3n%20-%20Hoja%201.csv
 
 
-[Pasos](https://github.com/jsotoacebal/pdata/blob/main/grafico_pasos.html)
+[Pasos](https://jsotoacebal.github.io/pdata/grafico_pasos.html)
 
 Gráficos:
 
