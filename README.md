@@ -18,8 +18,9 @@ Excel con datos limpios https://docs.google.com/spreadsheets/d/1d0qt5mVmrEKaKy57
 Excel con datos crudos de cantidad de pasos https://docs.google.com/spreadsheets/d/14S-EICvJM1t-1_OWciRAjA9RwVvXz4FOhLkROQY0E8U/edit?usp=sharing
 
 
+Gráficos
 
-Cantidad de pasos:
 
+Cantidad de pasos
 
 ![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/Pasos.png)
