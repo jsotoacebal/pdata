@@ -34,6 +34,10 @@ Comparación cantidad de pasos y distancia recorrida(km)
 ![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/pasos%20y%20distancia.png)
 
 
+Distancia y velocidad por dia de semana por mes:
+![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/Dist%20y%20vel%20x%20diasem.png)
+
+
 Promedio de velocidad:
 
 ![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/promedio%20velocidad.png)
