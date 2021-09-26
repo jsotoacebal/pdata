@@ -38,4 +38,8 @@ Promedio de velocidad:
 
 ![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/promedio%20velocidad.png)
 
+Promedio de velociad y promedio distancia de paso:
+
+![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/prom%20velocidad%20y%20prom%20distancia.png)
+
 
