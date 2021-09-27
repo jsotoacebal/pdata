@@ -24,7 +24,7 @@ Datos limpios https://github.com/jsotoacebal/pdata/blob/main/Proyecto%20visualiz
 
 [Pasos](https://jsotoacebal.github.io/pdata/grafico_pasos.html)
 
-[Distancia y pasos](https://jsotoacebal.github.io/pdata/Grafico Dist_pasos)
+[Distancia y pasos](https://jsotoacebal.github.io/pdata/Grafico_Dist_pasos)
 
 Gráficos:
 
