@@ -22,39 +22,41 @@ Datos crudos de cantidad de pasos https://github.com/jsotoacebal/pdata/blob/main
 Datos limpios https://github.com/jsotoacebal/pdata/blob/main/Proyecto%20visualizaci%C3%B3n%20de%20la%20informaci%C3%B3n%20-%20Hoja%201.csv
 
 
-[Pasos](https://jsotoacebal.github.io/pdata/Grafico_pasos.html)
-
-[Distancia y pasos](https://jsotoacebal.github.io/pdata/Grafico_Dist_pasos.html)
-
-[Velocidad y Distancia por dia de semana](https://jsotoacebal.github.io/pdata/Grafico_diasem.html)
-
-[Velocidad y distancia de paso por dia de semana](https://jsotoacebal.github.io/pdata/Grafico_vel.html)
-
-
-
 
 Gráficos:
 
 Cantidad de pasos
+
+[Cantidad de pasos](https://jsotoacebal.github.io/pdata/Grafico_pasos.html)
+
 
 ![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/Pasos.png)
 
 
 Comparación cantidad de pasos y distancia recorrida(km)
 
+[Distancia y pasos](https://jsotoacebal.github.io/pdata/Grafico_Dist_pasos.html)
+
 ![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/pasos%20y%20distancia.png)
 
 
 Distancia y velocidad por dia de semana por mes:
+
+[Velocidad y Distancia por dia de semana](https://jsotoacebal.github.io/pdata/Grafico_diasem.html)
+
 ![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/Dist%20y%20vel%20x%20diasem.png)
 
+
+Promedio de velociad y promedio distancia de paso:
+
+[Velocidad y distancia de paso por dia de semana](https://jsotoacebal.github.io/pdata/Grafico_vel.html)
+
+
+![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/prom%20velocidad%20y%20prom%20distancia.png)
 
 Promedio de velocidad:
 
 ![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/promedio%20velocidad.png)
 
-Promedio de velociad y promedio distancia de paso:
-
-![name-of-you-image](https://github.com/jsotoacebal/pdata/blob/main/prom%20velocidad%20y%20prom%20distancia.png)
 
 
