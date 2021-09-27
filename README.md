@@ -26,6 +26,8 @@ Datos limpios https://github.com/jsotoacebal/pdata/blob/main/Proyecto%20visualiz
 
 [Distancia y pasos](https://jsotoacebal.github.io/pdata/Grafico_Dist_pasos.html)
 
+[Velocidad y Distancia por dia de semana](https://jsotoacebal.github.io/pdata/Grafico_diasem.html)
+
 Gráficos:
 
 Cantidad de pasos
