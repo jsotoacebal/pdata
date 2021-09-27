@@ -28,6 +28,9 @@ Datos limpios https://github.com/jsotoacebal/pdata/blob/main/Proyecto%20visualiz
 
 [Velocidad y Distancia por dia de semana](https://jsotoacebal.github.io/pdata/Grafico_diasem.html)
 
+[Velocidad y distancia de paso por dia de semana](https://jsotoacebal.github.io/pdata/Grafico_vel.html)
+
+
 
 
 Gráficos:
