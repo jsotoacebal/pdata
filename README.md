@@ -7,6 +7,10 @@ Fechas:
 
 8 de Agosto al 31 de Agosto: Centro de Ciudad
 
+
+Aplicación utilizada para registrar los datos:
+Health de Apple
+
 Datos registrados:
 
 - Pasos por día
