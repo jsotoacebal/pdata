@@ -32,6 +32,8 @@ Datos limpios https://github.com/jsotoacebal/pdata/blob/main/Proyecto%20visualiz
 
 Gráficos:
 
+[Visualización] 
+
 Cantidad de pasos
 
 [Cantidad de pasos](https://jsotoacebal.github.io/pdata/Grafico_pasos.html)
